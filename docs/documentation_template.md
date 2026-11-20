@@ -1,39 +1,44 @@
-# [Subject of the Documentation]
 
-- **Issue:** [Link or ID of the related issue(s); list all if multiple]
-- **Category:** [Category from the repository structure]
-- **References:** [Links to related documentation or foundational resources]
+## (Subject of the documentation)
 
----
-
-## Versions
-
-| Version | Date       | Author | Description      |
-| ------- | ---------- | ------ | ---------------- |
-| 1.0     | YYYY-MM-DD | Name   | Initial document |
+**Issue:** (Name of the related Issue. If multiple write them all)
+**Category**: (Category of the documentation from repository structure)
+**References**: (References to other documentation files or other knowledge on which this documentation is based or builds upon)
 
 ---
 
-## Overview
+#### Versions
 
-<!-- Short, clear description of the documented increment: goal, what needed to change, what was accomplished, and the expected outcome. -->
+| Version | Date       | Author |
+| ------- | ---------- | ------ |
+| 1.0     | YYYY-MM-DD | Author |
+|         |            |        |
 
-## Implementation Details
+---
 
-<!-- Actual changes made, technical description, and screenshots showing the results. Add subsections if needed, or merge this section with the Code section if more convenient. -->
+#### Overview
 
-## Code
+(Short, human-like description of increment that is being documented: what was the goal, what needed to be changed, what did it accomplish, what is the expected outcome etc.)
 
-<!-- Relevant code snippets written for this increment. Remove this section if not applicable. For larger changes, link to the corresponding files in the repository instead of duplicating their contents. -->
+#### Implementation Details
 
-```language
-// Replace "language" with the appropriate programming language (e.g., python, ts, bash)
+(Actual changes made, content of the increment, screens showing what was made, technical description etc. Additional chapters concerning implementation can be added if needed. You can also mix this part with the next one if it's more convinent)
+
+#### Code
+
+(Code lines that were written for this increment. Delete this part if not relevant)
+
+```name_of_the_programing_language
+
+(Remember to put code in ``` ```)
+
 ```
 
-## Tests
+(For larger code sections, prefer referencing the corresponding files in the repository instead of duplicating their entire contents.)
+#### Tests
 
-<!-- Logs, messages, test code, or screenshots demonstrating the tests performed and their results. Add subsections if needed. -->
+(Logs, messeges, code or screens showing the tests made and their results. Additional chapters concerning testing can be added if needed)
 
-## Additional Information
+#### Additional Information
 
-<!-- Required systems or tools to test or use this increment, known limitations, or open issues. -->
+(Additional information like systems or tools required to test this increment or use it in any way, restrictions, or known problems)
