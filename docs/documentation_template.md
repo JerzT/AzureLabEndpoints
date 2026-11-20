@@ -1,9 +1,9 @@
 
 ## (Subject of the documentation)
 
-**Issue:** (Name of the related Issue. If multiple write them all)
-**Category**: (Category of the documentation from repository structure)
-**References**: (References to other documentation files or other knowledge on which this documentation is based or builds upon)
+- **Issue:** [Link or ID of the related issue(s); list all if multiple]
+- **Category:** [Category from the repository structure]
+- **References:** [Links to related documentation or foundational resources]
 
 ---
 
@@ -18,7 +18,7 @@
 
 #### Overview
 
-(Short, human-like description of increment that is being documented: what was the goal, what needed to be changed, what did it accomplish, what is the expected outcome etc.)
+(Short description of increment that is being documented: what was the goal, what needed to be changed, what did it accomplish, what is the expected outcome etc.)
 
 #### Implementation Details
 
