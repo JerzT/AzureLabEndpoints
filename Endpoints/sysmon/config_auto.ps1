@@ -11,7 +11,7 @@ $DownloadPathSysmon = "$env:TEMP\Sysmon.zip"
 $ExtractPathSysmon = "C:\Tools\Sysmon"
 
 # Download Configuration
-$DownloadUrlConfig = "https://raw.githubusercontent.com/JerzT/test_sysmon_xml/refs/heads/main/sysmonconfig-custom.xml"
+$DownloadUrlConfig = "https://raw.githubusercontent.com/putrequest/AzureLab/refs/heads/main/Endpoints/sysmon/sysmonconfig-custom.xml"
 $ConfigPath = "C:\Tools\Sysmon\Config"
 $DownloadPathConfig = "$ConfigPath\configuration.xml"
 
